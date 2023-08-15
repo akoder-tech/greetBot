@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+}
+
+h1 {
+    font-family: 'Cairo', sans-serif;
+    font-family: 'Kanit', sans-serif;
+    color: white;
+    font-size: 400%;
+}
+
+h2 {
+    font-family: 'Cairo', sans-serif;
+    font-family: 'Kanit', sans-serif;
+    color: white;
+    font-size: 150%;
+}
+
+
+
+
+button {
+    width: 15vw;
+    height: 5vh;
+    font-family: 'Cairo', sans-serif;
+    font-family: 'Kanit', sans-serif;
+    color: black;
+    font-size: 100%;
+}
+
+
+input {
+    width: 15vw;
+    height: 5vh;
+    text-align: center;
+    font-family: 'Cairo', sans-serif;
+    font-family: 'Kanit', sans-serif;
+    font-size: 100%;
+}
